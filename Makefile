@@ -1,2 +1,2 @@
 test:
-  echo 'test passed'
+	echo 'test passed'
