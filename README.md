@@ -148,3 +148,5 @@ also included in our repository in the `COPYING.LESSER` file.
 The greenfield binaries (i.e. all code inside the `cmd` directory) is licensed under the
 [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.en.html), also
 included in our repository in the `COPYING` file.
+
+Amirkhan
